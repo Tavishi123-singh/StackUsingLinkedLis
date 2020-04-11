@@ -1,4 +1,4 @@
-package stack.node;
+package stack;
 
 public class Node {
     private int data;
