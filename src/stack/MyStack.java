@@ -43,4 +43,7 @@ public class MyStack {
         }
         return res;
     }
+    public int size(){
+        return size;
+    }
 }
